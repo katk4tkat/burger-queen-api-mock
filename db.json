@@ -95,6 +95,69 @@
       "price": 750,
       "image": "",
       "type": "Desayuno"
+    },
+    {
+      "id": 5,
+      "name": "Jugo de frutas natural",
+      "price": 700,
+      "image": "",
+      "type": "Desayuno"
+    },
+    {
+      "id": 6,
+      "name": "Hamburguesas",
+      "price": 2500,
+      "image": "",
+      "type": "Almuerzo"
+    },
+    {
+      "id": 7,
+      "name": "Hamburguesa simple",
+      "price": 2300,
+      "image": "",
+      "type": "Almuerzo"
+    },
+    {
+      "id": 8,
+      "name": "Hamburguesa doble",
+      "price": 3000,
+      "image": "",
+      "type": "Almuerzo"
+    },
+    {
+      "id": 9,
+      "name": "Papas fritas",
+      "price": 1500,
+      "image": "",
+      "type": "Almuerzo"
+    },
+    {
+      "id": 10,
+      "name": "Aros de cebolla",
+      "price": 1500,
+      "image": "",
+      "type": "Almuerzo"
+    },
+    {
+      "id": 11,
+      "name": "Agua 750ml",
+      "price": 650,
+      "image": "",
+      "type": "Almuerzo"
+    },
+    {
+      "id": 12,
+      "name": "Bebida/gaseosa 500ml",
+      "price": 700,
+      "image": "",
+      "type": "Almuerzo"
+    },
+    {
+      "id": 13,
+      "name": "Bebida/gaseosa 750ml",
+      "price": 850,
+      "image": "",
+      "type": "Almuerzo"
     }
   ],
   "users": [
